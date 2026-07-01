@@ -43,12 +43,6 @@ React • Vite • JavaScript • CSS • Gemini API • Context API • Git •
 
 ---
 
-## 📸 Screenshots
-
-![Uploading Screenshot 2026-07-01 145218.png…]()
-
-![Uploading Screenshot (1265).png…]()
-
 ---
 
 ## 📁 Setup
